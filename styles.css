@@ -1,0 +1,30 @@
+
+
+ button {
+     padding: 10px 20px;
+     background-color: red;
+     color: whitesmoke;
+     border: none;
+     border-radius: 6px;
+     cursor: pointer;
+ }
+
+ table {
+     border-collapse: collapse;
+ }
+
+ tr,
+ th,
+ td {
+     border: 3px solid grey;
+     padding: 1rem;
+     text-align: left;
+ }
+ ul{
+    background-color: blueviolet;
+    margin: 2px;
+ }
+ ol{
+    background-color: blue;
+    margin: 2px;
+ }
